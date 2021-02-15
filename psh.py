@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import random,sys,time,os,re
 from wp import printt as wp
 #from echo import echo as echo
@@ -5,7 +6,7 @@ from wp import printt as wp
 wp("welcome to psh...")
 wp("made by Sakurai07")
 wp("run help.py for psh help")
-#!/usr/bin/env python3
+
 
 """psh: a simple shell written in Python"""
 
